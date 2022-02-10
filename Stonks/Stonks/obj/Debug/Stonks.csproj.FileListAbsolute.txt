@@ -1,0 +1,124 @@
+C:\Users\dalto\Desktop\Stonks\Stonks\bin\Debug\Stonks.exe.config
+C:\Users\dalto\Desktop\Stonks\Stonks\bin\Debug\Stonks.exe
+C:\Users\dalto\Desktop\Stonks\Stonks\bin\Debug\Stonks.pdb
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.exe
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.pdb
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+C:\Users\dalto\Desktop\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\bin\Debug\Stonks.exe.config
+C:\Users\Luccas\Desktop\Stonks\Stonks\bin\Debug\Stonks.exe
+C:\Users\Luccas\Desktop\Stonks\Stonks\bin\Debug\Stonks.pdb
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.exe
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.pdb
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\bin\Debug\Stonks.exe.config
+C:\Users\dalto\Downloads\Stonks\Stonks\bin\Debug\Stonks.exe
+C:\Users\dalto\Downloads\Stonks\Stonks\bin\Debug\Stonks.pdb
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.exe
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.pdb
+C:\Users\Luccas\Desktop\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+C:\Users\dalto\Downloads\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+D:\Stonks\Stonks\bin\Debug\Stonks.exe.config
+D:\Stonks\Stonks\bin\Debug\Stonks.exe
+D:\Stonks\Stonks\bin\Debug\Stonks.pdb
+D:\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+D:\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+D:\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+D:\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
+D:\Stonks\Stonks\obj\Debug\Stonks.exe
+D:\Stonks\Stonks\obj\Debug\Stonks.pdb
+E:\Stonks\Stonks\bin\Debug\Stonks.exe.config
+E:\Stonks\Stonks\bin\Debug\Stonks.exe
+E:\Stonks\Stonks\bin\Debug\Stonks.pdb
+E:\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+E:\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+E:\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+E:\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
+E:\Stonks\Stonks\obj\Debug\Stonks.exe
+E:\Stonks\Stonks\obj\Debug\Stonks.pdb
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\bin\Debug\Stonks.exe.config
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\bin\Debug\Stonks.exe
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\bin\Debug\Stonks.pdb
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.exe
+D:\dalton_e_gabriel\logica_de_programacao\Stonks\Stonks\obj\Debug\Stonks.pdb
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.exe.config
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.exe
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.pdb
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.exe
+E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.pdb
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.exe.config
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.exe
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.pdb
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.frmInvestimentos.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.Investimentos.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.frmTrue.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.poupanca.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.Properties.Resources.resources
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csproj.GenerateResource.cache
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.exe
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.pdb
