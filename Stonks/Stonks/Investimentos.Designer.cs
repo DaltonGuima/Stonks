@@ -389,6 +389,7 @@
             this.Name = "Investimentos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Investimentos";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Investimentos_FormClosed);
             this.panPrincipal.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

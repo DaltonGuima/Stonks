@@ -154,5 +154,10 @@ namespace Stonks
         {
             btnLimpar.PerformClick();
         }
+
+        private void cdbpos_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

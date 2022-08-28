@@ -257,6 +257,7 @@
             this.Name = "cdbpos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CDB Pós-fixado";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.cdbpos_FormClosed);
             this.Load += new System.EventHandler(this.cdbpos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panCalculo.ResumeLayout(false);

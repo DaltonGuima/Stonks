@@ -126,5 +126,10 @@ namespace Stonks
         {
             btnLimpar.PerformClick();
         }
+
+        private void cdi_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

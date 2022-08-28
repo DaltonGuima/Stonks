@@ -236,6 +236,7 @@
             this.Name = "cdi";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CDI";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.cdi_FormClosed);
             this.Load += new System.EventHandler(this.cdi_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panCalculo.ResumeLayout(false);

@@ -109,7 +109,6 @@ E:\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.pdb
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.exe.config
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.exe
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\bin\Debug\Stonks.pdb
-C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csprojAssemblyReference.cache
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdb.resources
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdbpos.resources
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.cdi.resources
@@ -122,3 +121,4 @@ C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\201
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csproj.CoreCompileInputs.cache
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.exe
 C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.pdb
+C:\Users\dalto\Desktop\Materias de aula\PenDrive\Aulas\logica_de_programacao\2019\Stonks\Stonks\obj\Debug\Stonks.csproj.AssemblyReference.cache

@@ -59,14 +59,14 @@ namespace Stonks
         {
             poupanca p = new poupanca();
             p.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void btmSimulador_Click(object sender, EventArgs e)
         {
             cdb c = new cdb();
             c.Show();
-            this.Close();
+            this.Hide();
         }
 
 
@@ -74,14 +74,14 @@ namespace Stonks
         {
             cdi cd = new cdi();
             cd.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void btnCdbPos_Click_1(object sender, EventArgs e)
         {
             cdbpos ced = new cdbpos();
             ced.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void cbxCbd_SelectedIndexChanged(object sender, EventArgs e)
@@ -116,16 +116,19 @@ namespace Stonks
                 case "CDB pré-fixado":
                     cdb c = new cdb();
                     c.Show();
-                    this.Close();
+                    this.Hide();
                     break;
                 case "CDB pós-fixado":
                     cdbpos ced = new cdbpos();
                     ced.Show();
-                    this.Close();
+                    this.Hide();
                     break;
             }
         }
 
-        
+        private void Investimentos_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

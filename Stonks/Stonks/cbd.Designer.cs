@@ -257,6 +257,7 @@
             this.Name = "cdb";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CDB pré-fixado";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.cdb_FormClosed);
             this.Load += new System.EventHandler(this.cdb_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panCalculo.ResumeLayout(false);

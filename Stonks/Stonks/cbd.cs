@@ -102,6 +102,11 @@ namespace Stonks
             }
         }
 
+        private void cdb_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
         private void btnAnt_Click(object sender, EventArgs e)
         {
             Investimentos i = new Investimentos();
