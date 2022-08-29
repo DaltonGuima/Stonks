@@ -1,0 +1,15 @@
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csprojAssemblyReference.cache
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.cache
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.frmTelaIni.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Sobre.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Pergunta1.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Pergunta2.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Pergunta3.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Pergunta4.resources
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\bin\Debug\Quiz Natura.exe.config
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\bin\Debug\Quiz Natura.exe
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\bin\Debug\Quiz Natura.pdb
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\Quiz Natura.exe
+C:\Users\dalto\Desktop\Materias de aula\DS\ProjetoQuiz\ProjetoQuiz\obj\Debug\Quiz Natura.pdb
